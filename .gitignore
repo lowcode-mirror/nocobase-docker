@@ -1,0 +1,6 @@
+/app
+/database
+/backups
+
+.env
+.DS_Store
